@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @med-mitique
-- 👀 I’m interested in web and mobile developement
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-Hi, I'm a full-stack developer with a passion for both mobile and web development! 🚀 I specialize in:
 
-<!---
-med-mitique/med-mitique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 Android Development – Creating mobile apps and games using Java & Android Studio, including Play Store publishing.
+🔹 Web Development – Building modern, scalable applications with React, Express, and Node.js.
+🔹 Full-Stack Solutions – Developing interactive UIs, robust backends, and seamless integrations.
+
+Always learning and building cool stuff! Check out my projects and let’s connect. 💡
+
